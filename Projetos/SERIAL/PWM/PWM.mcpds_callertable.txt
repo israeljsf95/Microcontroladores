@@ -1,0 +1,17 @@
+main
+	init_OCmod
+	mudar_PWM
+		floor
+			_Compare_Le_Fp
+				_Compare_Fp
+			_Float2Longint
+			_Long2Float
+			_Compare_Ge_Fp
+				_Compare_Fp
+			_Sub_FP
+				_AddSub_FP
+		_Long2Float
+		_Mul_FP
+		_Float2Longint
+	_Long2Float
+	_Mul_FP

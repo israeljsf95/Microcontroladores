@@ -1,0 +1,4 @@
+main
+	leitor
+	conv_char_to_hexa
+		char_to_7seg

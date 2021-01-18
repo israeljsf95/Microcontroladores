@@ -1,0 +1,20 @@
+main
+	mostra_usuario
+	reseta_tudo
+	bomba
+		leitor
+		conv_char_to_hexa
+			char_to_7seg
+		rand
+			srand
+			_Multiply_32x32
+		reseta_tudo
+	teste_acerto
+		escreve_acertou
+		mostra_men_final_1
+		descreve_acertou
+	mostt_uu
+		mostra_men_usuario
+	teste_erro
+	leitor
+	conv_char_to_hexa

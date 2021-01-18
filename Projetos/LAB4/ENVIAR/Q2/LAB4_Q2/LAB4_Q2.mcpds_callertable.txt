@@ -1,0 +1,16 @@
+main
+	INIT_UART2
+	send_char
+	receive_char
+	mudarPWM
+		send_str
+			send_char
+		IntToStr
+			WordToStr
+	receive_str
+		receive_char
+Tx_serial2
+msg
+	send_str
+	IntToStr
+botao

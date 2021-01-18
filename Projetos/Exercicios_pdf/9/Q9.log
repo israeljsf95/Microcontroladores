@@ -1,0 +1,9 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo10 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\Exercicios_pdf\9\Q9.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\Exercicios_pdf\9\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\Exercicios_pdf\9\" "Q9.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	Q9.c
+diagnostics: 46	123	Compiled Successfully	Q9.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+diagnostics: 0	125	Project Linked Successfully	Q9.mcpds
+diagnostics: 0	128	Linked in 94 ms	 
+diagnostics: 0	129	Project 'Q9.mcpds' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 09 nov 2019, 21:50:10	Q9.mcpds

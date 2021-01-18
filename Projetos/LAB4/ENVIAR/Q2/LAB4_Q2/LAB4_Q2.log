@@ -1,0 +1,15 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo64 -N"C:\Users\gprufs\Desktop\LAB4\LAB4_Q2\LAB4_Q2.mcpds" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Uses\" -SP"C:\Users\gprufs\Desktop\LAB4\LAB4_Q2\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for dsPIC\Uses\" -IP"C:\Users\gprufs\Desktop\LAB4\LAB4_Q2\" "LAB4_Q2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	LAB4_Q2.c
+hint: 0	1004	interrupt handler (Tx_serial2 at 0x0046)	LAB4_Q2.c
+hint: 0	1004	interrupt handler (botao at 0x0014)	LAB4_Q2.c
+hint: 0	1004	interrupt handler (msg at 0x001A)	LAB4_Q2.c
+diagnostics: 247	123	Compiled Successfully	LAB4_Q2.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RX (bytes): 27 (84%)   Free RX (bytes): 5 (16%)	Used RX (bytes): 27 (84%)   Free RX (bytes): 5 (16%)
+hint: 0	1144	Static RAM (bytes): 219   Dynamic RAM (bytes): 1828	Static RAM (bytes): 219   Dynamic RAM (bytes): 1828
+hint: 0	1144	Used ROM (bytes): 1279 (4%)  Free ROM (bytes): 31489 (96%)	Used ROM (bytes): 1279 (4%)  Free ROM (bytes): 31489 (96%)
+diagnostics: 0	125	Project Linked Successfully	LAB4_Q2.mcpds
+diagnostics: 0	128	Linked in 93 ms	 
+diagnostics: 0	129	Project 'LAB4_Q2.mcpds' completed: 296 ms	 
+diagnostics: 0	103	Finished successfully: 14 mar 2020, 19:26:48	LAB4_Q2.mcpds

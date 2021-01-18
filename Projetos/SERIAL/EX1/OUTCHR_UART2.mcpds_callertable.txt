@@ -1,0 +1,7 @@
+main
+	INIT_UART2
+	OUTCHR_UART2
+	INCHR_UART2
+	echo
+		INCHR_UART2
+Tx_serial2

@@ -1,0 +1,5 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo64 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\Exercicios_pdf\10\Q10.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\Exercicios_pdf\10\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\Exercicios_pdf\multP_disp\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\Exercicios_pdf\10\" "Q10.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	Q10.c
+error: 23	376	Integer const expected	Q10.c
+error: 0	102	Finished (with errors): 09 nov 2019, 21:00:57	Q10.mcpds

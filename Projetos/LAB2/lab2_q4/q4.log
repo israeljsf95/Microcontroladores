@@ -1,0 +1,9 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo64 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\lab2_q4\q4.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\lab2_q4\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\lab2_q4\" "q4.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	q4.c
+diagnostics: 429	123	Compiled Successfully	q4.c
+diagnostics: 0	127	All files Compiled in 140 ms	 
+diagnostics: 0	125	Project Linked Successfully	q4.mcpds
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'q4.mcpds' completed: 469 ms	 
+diagnostics: 0	103	Finished successfully: 27 jan 2020, 07:20:57	q4.mcpds

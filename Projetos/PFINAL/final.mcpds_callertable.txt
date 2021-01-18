@@ -1,0 +1,15 @@
+main
+	Init_UART1
+	Init_UART2
+	receive_str2
+		receive_char2
+	send_str1
+		send_char1
+	receive_str1
+		receive_char1
+	send_str2
+		send_char2
+	send_char2
+Tx_serial2
+Tx_serial1
+criatividade

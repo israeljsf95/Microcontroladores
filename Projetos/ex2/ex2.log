@@ -1,0 +1,11 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo64 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\ex2\ex2.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\ex2\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\ex2\" "ex2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 695	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	ex2.c
+diagnostics: 13	123	Compiled Successfully	ex2.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+diagnostics: 0	125	Project Linked Successfully	ex2.mcpds
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'ex2.mcpds' completed: 375 ms	 
+diagnostics: 0	103	Finished successfully: 23 out 2019, 07:51:02	ex2.mcpds

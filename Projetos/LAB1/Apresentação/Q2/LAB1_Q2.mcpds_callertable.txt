@@ -1,0 +1,7 @@
+main
+	calcula_distancia
+	ativa_sensores
+	mostra_display
+	tocar_marcha
+	tocar_forca
+	tocar_jb

@@ -1,0 +1,12 @@
+main
+	conversao
+		dis_play
+		_Float2Longint
+	_Long2Float
+	_Mul_FP
+	_Compare_Ge_Fp
+		_Compare_Fp
+	_Compare_Le_Fp
+		_Compare_Fp
+GTMOint
+criativ

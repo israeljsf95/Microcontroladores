@@ -1,0 +1,9 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo64 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\AD\teste1\teste_reg_AD.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\AD\teste1\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\AD\teste1\" "teste_reg_AD.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	teste_reg_AD.c
+diagnostics: 9	123	Compiled Successfully	teste_reg_AD.c
+diagnostics: 0	127	All files Compiled in 157 ms	 
+diagnostics: 0	125	Project Linked Successfully	teste_reg_AD.mcpds
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'teste_reg_AD.mcpds' completed: 375 ms	 
+diagnostics: 0	103	Finished successfully: 06 fev 2020, 17:49:49	teste_reg_AD.mcpds

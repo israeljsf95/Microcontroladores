@@ -1,0 +1,9 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo48 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\SERIAL\EX1\OUTCHR_UART2.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\SERIAL\EX1\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\SERIAL\EX1\" "OUTCHR_UART2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	OUTCHR_UART2.c
+diagnostics: 54	123	Compiled Successfully	OUTCHR_UART2.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+diagnostics: 0	125	Project Linked Successfully	OUTCHR_UART2.mcpds
+diagnostics: 0	128	Linked in 93 ms	 
+diagnostics: 0	129	Project 'OUTCHR_UART2.mcpds' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 02 mar 2020, 08:41:30	OUTCHR_UART2.mcpds

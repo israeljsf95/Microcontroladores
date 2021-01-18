@@ -1,0 +1,20 @@
+main
+	INIT_UART2
+	conversa
+		receive_str
+			receive_char
+		send_str
+			send_char
+		check
+			strcmp
+			send_str
+	criatividade
+		receive_criat
+			receive_char
+		send_str
+		strcmp
+	send_str
+Tx_serial2
+tempo2
+tempo
+botaozinho

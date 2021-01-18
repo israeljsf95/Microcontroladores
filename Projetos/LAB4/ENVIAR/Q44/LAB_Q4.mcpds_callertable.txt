@@ -1,0 +1,39 @@
+main
+	Init_ADC
+	Init_UART2
+	conversaoAD
+		_Long2Float
+		_Div_FP
+		_Mul_FP
+	sprintf
+		_doprntf
+			isdigit
+			scale
+				_Mul_FP
+			fround
+				_Mul_FP
+			_Compare_Le_Fp
+				_Compare_Fp
+			_Mul_FP
+			_Compare_Ge_Fp
+				_Compare_Fp
+			_Div_FP
+			_Float2Longword
+			_Long2Float
+			_Sub_FP
+				_AddSub_FP
+			_AddSub_FP
+			_Modulus_32x32
+			_Divide_32x32
+			_Float2Longint
+	send_str
+		send_char
+	send_char
+	compara_cri
+		send_str
+		send_char
+		_Compare_Ge_Fp
+		_Compare_Le_Fp
+	_Compare_Ge_Fp
+Tx_serial2
+criatividade

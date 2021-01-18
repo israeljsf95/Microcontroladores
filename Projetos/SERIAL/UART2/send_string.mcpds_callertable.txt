@@ -1,0 +1,6 @@
+main
+	init_uart2
+	enviar_char
+	receber_char
+Tx_serial2
+timer

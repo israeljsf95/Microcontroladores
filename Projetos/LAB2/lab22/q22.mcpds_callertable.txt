@@ -1,0 +1,21 @@
+main
+	Lcd_Init
+		Delay_8ms
+		Strobe
+			Delay_1us
+		Delay_5500us
+	Lcd_Cmd
+		Strobe
+		Delay_5500us
+		Delay_50us
+	LongToStr
+		LongWordToStr
+			_Modulus_32x32
+			_Divide_32x32
+	Lcd_Out
+		Lcd_Cmd
+		Lcd_Chr_CP
+			Lcd_Cmd
+INT2Int
+Frequencimetro
+janela_de_tempo

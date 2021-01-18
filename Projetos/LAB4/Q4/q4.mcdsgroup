@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\SERIAL\UART2\send_string.mcpds
+Project1=q4.mcpds
+[ActiveProject]
+Index=1

@@ -1,0 +1,9 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo64 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\LAB1\Q2_cria\criat_q2.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\LAB1\Q2_cria\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\LAB1\Q2_cria\" "criat_q2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CStdlib.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	criat_q2.c
+diagnostics: 79	123	Compiled Successfully	criat_q2.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+diagnostics: 0	125	Project Linked Successfully	criat_q2.mcpds
+diagnostics: 0	128	Linked in 109 ms	 
+diagnostics: 0	129	Project 'criat_q2.mcpds' completed: 281 ms	 
+diagnostics: 0	103	Finished successfully: 20 nov 2019, 21:15:18	criat_q2.mcpds

@@ -1,0 +1,9 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP30F4011 -DL -SSA -O11111114 -fo64 -N"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\DEBUG\d_led\teste1.mcpds" -SP"D:\MicroChip\mikroC PRO for dsPIC\Defs\" -SP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -SP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\DEBUG\d_led\" -IP"D:\MicroChip\mikroC PRO for dsPIC\Uses\" -IP"D:\Bibliotecas_Usuario\Documentos\Documentos\UFS\Microcontroladores\Projetos\DEBUG\d_led\" "teste1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	teste1.c
+diagnostics: 8	123	Compiled Successfully	teste1.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+diagnostics: 0	125	Project Linked Successfully	teste1.mcpds
+diagnostics: 0	128	Linked in 93 ms	 
+diagnostics: 0	129	Project 'teste1.mcpds' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 14 mar 2020, 11:56:03	teste1.mcpds
